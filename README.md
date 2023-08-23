@@ -1,3 +1,6 @@
+
+```py
+
 Hi there 👋
 const readMePlease = {
     greetings: "Hey there 👋",
