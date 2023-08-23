@@ -1,13 +1,10 @@
 
 
 ```py
-Hi there 👋
-const readMePlease = {
-    greetings: "Hey there 👋",
-    who: "FullStack developer",
-    iAm: "Gabriel Farinela",
+def ReadPlease{
+    who: "Software Developer",
+    iAm: "Guilherme Farinela",
     usually: "studying",
-    website: "being built...",
-    experience: ["React", "Angular", "JavaScript", "TypeScript", "C#", ".Net Core"],
-    Linkedin: "https://www.linkedin.com/in/gabriel-farinela/"
+    experience: ["Java", "Python", "AutoHotKey", "Outsystems"],
+    Linkedin: ["https://www.linkedin.com/in/guilhermefarinela/"]
 }
